@@ -1,2 +1,4 @@
 # Olá mundo
 Repositorio criado para auxilio de estudos sobre git e github
+
+adicionei essa linha atraves do github
