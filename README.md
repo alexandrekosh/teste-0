@@ -1,2 +1,2 @@
-# teste
-teste de repositorio para estudos
+# Olá mundo
+Repositorio criado para auxilio de estudos sobre git e github
